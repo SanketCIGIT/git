@@ -2,3 +2,4 @@
 #
 #
 echo "Ping"
+echo "Ping2"
